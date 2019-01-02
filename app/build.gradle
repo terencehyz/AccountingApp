@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     defaultConfig {
         applicationId "com.hanyuzhou.accountingapp"
-        minSdkVersion 23
+        minSdkVersion 25
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
